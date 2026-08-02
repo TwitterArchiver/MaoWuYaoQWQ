@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1658373974647259137",
+    "conversation_id": "2076569452423053751",
+    "created_at": "2026-07-13T07:28:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T08:28:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076569452423053751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1769193780329304064",
+          "start": 3,
+          "username": "azhe_713"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076569452423053751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060298369281781766",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @azhe_713: 你好这里是阿喆＞人＜\n成分比较复杂，是玩gal的皮下死宅，出点喜欢的角色cos，大家的支持就是我的动力\n好友位35r回复消息55r，留联系方式我会主动加你，也支持口令红包，我会用这些钱买cos服拍更多照片的🥺🥺过门后可以找我要to签喵，阿喆会一直喜欢…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1229,
+        "media_key": "3_2060298134690172929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJemPNGbkAEPjgI.jpg",
+        "width": 1229
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060298135214407680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJemPPDawAARw5D.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658373974647259137",
+        "conversation_id": "2076569452423053751",
+        "created_at": "2026-07-13T07:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076569452423053751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1769193780329304064",
+              "start": 3,
+              "username": "azhe_713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076569452423053751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060298369281781766",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @azhe_713: 你好这里是阿喆＞人＜\n成分比较复杂，是玩gal的皮下死宅，出点喜欢的角色cos，大家的支持就是我的动力\n好友位35r回复消息55r，留联系方式我会主动加你，也支持口令红包，我会用这些钱买cos服拍更多照片的🥺🥺过门后可以找我要to签喵，阿喆会一直喜欢…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060298134690172929",
+            "3_2060298135214407680"
+          ]
+        },
+        "author_id": "1769193780329304064",
+        "conversation_id": "2060298369281781766",
+        "created_at": "2026-05-29T09:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060298369281781766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aLeySSrlPM",
+              "end": 151,
+              "expanded_url": "https://x.com/azhe_713/status/2060298369281781766/photo/1",
+              "media_key": "3_2060298134690172929",
+              "start": 128,
+              "url": "https://t.co/aLeySSrlPM"
+            },
+            {
+              "display_url": "pic.x.com/aLeySSrlPM",
+              "end": 151,
+              "expanded_url": "https://x.com/azhe_713/status/2060298369281781766/photo/1",
+              "media_key": "3_2060298135214407680",
+              "start": 128,
+              "url": "https://t.co/aLeySSrlPM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060298369281781766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 8162,
+          "like_count": 70,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "你好这里是阿喆＞人＜\n成分比较复杂，是玩gal的皮下死宅，出点喜欢的角色cos，大家的支持就是我的动力\n好友位35r回复消息55r，留联系方式我会主动加你，也支持口令红包，我会用这些钱买cos服拍更多照片的🥺🥺过门后可以找我要to签喵，阿喆会一直喜欢你们 https://t.co/aLeySSrlPM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-16T07:29:14.000Z",
+        "description": "我是貓巫咬.请叫我小巫｜私信除口令🧧和互fo外不回复.｜od｜自伤｜绘画｜infp｜泛性恋｜22岁｜门槛纯陪聊赚零花钱不搞颜色",
+        "id": "1658373974647259137",
+        "name": "༒不可視貓巫咬༒",
+        "pinned_tweet_id": "2076562861653135848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076563706037805056/nP2Rt8Xf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 84,
+          "like_count": 938,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 87
+        },
+        "url": "",
+        "username": "MaoWuYaoQWQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-17T02:47:36.000Z",
+        "description": "",
+        "id": "1769193780329304064",
+        "name": "阿喆喆捏",
+        "pinned_tweet_id": "2060298369281781766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961531199295557637/DwbqjX8j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4780,
+          "following_count": 68,
+          "like_count": 1112,
+          "listed_count": 12,
+          "media_count": 93,
+          "tweet_count": 199
+        },
+        "url": "",
+        "username": "azhe_713",
+        "verified": false
+      }
+    ]
+  }
+}

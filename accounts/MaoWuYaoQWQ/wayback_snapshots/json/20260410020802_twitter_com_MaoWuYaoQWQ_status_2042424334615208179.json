@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042424301513744384",
+        "3_2042424301509603328"
+      ]
+    },
+    "author_id": "1658373974647259137",
+    "conversation_id": "2042424334615208179",
+    "created_at": "2026-04-10T02:08:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T03:08:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042424334615208179"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 19,
+          "tag": "病み垢"
+        },
+        {
+          "end": 28,
+          "start": 24,
+          "tag": "地雷系"
+        },
+        {
+          "end": 33,
+          "start": 29,
+          "tag": "自撮り"
+        },
+        {
+          "end": 40,
+          "start": 34,
+          "tag": "じらいけい"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0Mck6pt3pw",
+          "end": 64,
+          "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2042424334615208179/photo/1",
+          "media_key": "3_2042424301513744384",
+          "start": 41,
+          "url": "https://t.co/0Mck6pt3pw"
+        },
+        {
+          "display_url": "pic.x.com/0Mck6pt3pw",
+          "end": 64,
+          "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2042424334615208179/photo/1",
+          "media_key": "3_2042424301509603328",
+          "start": 41,
+          "url": "https://t.co/0Mck6pt3pw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042424334615208179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "究竟要我多漂亮多苗条才能被爱...\n\n#病み垢 #地雷系 #自撮り #じらいけい https://t.co/0Mck6pt3pw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2042424301513744384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFgmFLxaIAAX68x.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2042424301509603328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFgmFLwa8AAtELT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042424301513744384",
+            "3_2042424301509603328"
+          ]
+        },
+        "author_id": "1658373974647259137",
+        "conversation_id": "2042424334615208179",
+        "created_at": "2026-04-10T02:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T03:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042424334615208179"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "病み垢"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "地雷系"
+            },
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "自撮り"
+            },
+            {
+              "end": 40,
+              "start": 34,
+              "tag": "じらいけい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Mck6pt3pw",
+              "end": 64,
+              "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2042424334615208179/photo/1",
+              "media_key": "3_2042424301513744384",
+              "start": 41,
+              "url": "https://t.co/0Mck6pt3pw"
+            },
+            {
+              "display_url": "pic.x.com/0Mck6pt3pw",
+              "end": 64,
+              "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2042424334615208179/photo/1",
+              "media_key": "3_2042424301509603328",
+              "start": 41,
+              "url": "https://t.co/0Mck6pt3pw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042424334615208179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "究竟要我多漂亮多苗条才能被爱...\n\n#病み垢 #地雷系 #自撮り #じらいけい https://t.co/0Mck6pt3pw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-16T07:29:14.000Z",
+        "description": "我是貓巫咬.可以叫我電子貓/小巫｜私信除口令🧧和互fo外不回复.｜可验证.5r一个语音10r一个视频｜od｜自伤｜绘画｜infp｜泛性恋",
+        "id": "1658373974647259137",
+        "name": "༒不可視貓巫咬༒（欢迎互fo互转）",
+        "pinned_tweet_id": "2040540920370868260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041899454698287107/FU_DdTQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 43,
+          "like_count": 452,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 69
+        },
+        "username": "MaoWuYaoQWQ",
+        "verified": false
+      }
+    ]
+  }
+}

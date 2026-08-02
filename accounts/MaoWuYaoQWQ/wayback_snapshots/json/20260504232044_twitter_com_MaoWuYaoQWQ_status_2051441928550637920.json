@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1658373974647259137",
+    "conversation_id": "2051441928550637920",
+    "created_at": "2026-05-04T23:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T00:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051441928550637920"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 106,
+          "start": 102,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 111,
+          "start": 107,
+          "tag": "接线下"
+        },
+        {
+          "end": 116,
+          "start": 112,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "非绿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1277956659831173122",
+          "start": 3,
+          "username": "EltoMartins"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/bMMzz",
+          "end": 139,
+          "start": 121,
+          "url": "https://t.co/bMMzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051441928550637920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050719551827149132",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EltoMartins: 我是小新前世1500粉被炸号了\n坐标江浙沪07年身高体重\n162 90斤 我下海想赚钱价格表在下面图\n喜欢礼貌的人 有喜欢小新的可以过🚪小新会认真对待欢迎女宝宝跟我互转 #门槛妹 #接线下 #爸爸活 #非绿 https://t.co/bMMzz…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050719540657676288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHWejpraYAAw51C.jpg",
+        "width": 1537
+      },
+      {
+        "height": 1559,
+        "media_key": "3_2050719540674547712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHWejpvb0AAe0Le.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658373974647259137",
+        "conversation_id": "2051441928550637920",
+        "created_at": "2026-05-04T23:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T00:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051441928550637920"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 106,
+              "start": 102,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 111,
+              "start": 107,
+              "tag": "接线下"
+            },
+            {
+              "end": 116,
+              "start": 112,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "非绿"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1277956659831173122",
+              "start": 3,
+              "username": "EltoMartins"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/bMMzz",
+              "end": 139,
+              "start": 121,
+              "url": "https://t.co/bMMzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051441928550637920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050719551827149132",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EltoMartins: 我是小新前世1500粉被炸号了\n坐标江浙沪07年身高体重\n162 90斤 我下海想赚钱价格表在下面图\n喜欢礼貌的人 有喜欢小新的可以过🚪小新会认真对待欢迎女宝宝跟我互转 #门槛妹 #接线下 #爸爸活 #非绿 https://t.co/bMMzz…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050719540657676288",
+            "3_2050719540674547712"
+          ]
+        },
+        "author_id": "1277956659831173122",
+        "conversation_id": "2050719551827149132",
+        "created_at": "2026-05-02T23:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T00:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050719551827149132"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 94,
+              "start": 90,
+              "tag": "接线下"
+            },
+            {
+              "end": 99,
+              "start": 95,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "非绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bMMzzUsyzq",
+              "end": 127,
+              "expanded_url": "https://x.com/EltoMartins/status/2050719551827149132/photo/1",
+              "media_key": "3_2050719540657676288",
+              "start": 104,
+              "url": "https://t.co/bMMzzUsyzq"
+            },
+            {
+              "display_url": "pic.x.com/bMMzzUsyzq",
+              "end": 127,
+              "expanded_url": "https://x.com/EltoMartins/status/2050719551827149132/photo/1",
+              "media_key": "3_2050719540674547712",
+              "start": 104,
+              "url": "https://t.co/bMMzzUsyzq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050719551827149132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6677,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "我是小新前世1500粉被炸号了\n坐标江浙沪07年身高体重\n162 90斤 我下海想赚钱价格表在下面图\n喜欢礼貌的人 有喜欢小新的可以过🚪小新会认真对待欢迎女宝宝跟我互转 #门槛妹 #接线下 #爸爸活 #非绿 https://t.co/bMMzzUsyzq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-16T07:29:14.000Z",
+        "description": "我是貓巫咬.可以叫我電子貓/小巫｜私信除口令🧧和互fo外不回复.｜od｜自伤｜绘画｜infp｜泛性恋",
+        "id": "1658373974647259137",
+        "name": "༒不可視貓巫咬༒",
+        "pinned_tweet_id": "2048970260594983164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048474836473892864/n9T_5E9Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 59,
+          "like_count": 569,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 62
+        },
+        "username": "MaoWuYaoQWQ",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-30T13:26:39.000Z",
+        "description": "坐标上海 杭州 喜欢礼貌的人 验证20",
+        "id": "1277956659831173122",
+        "location": "🚪188 288 388 588 1314",
+        "name": "新新",
+        "pinned_tweet_id": "2050719551827149132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047217625231724544/cMum65HO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 14,
+          "like_count": 25,
+          "listed_count": 6,
+          "media_count": 15,
+          "tweet_count": 107
+        },
+        "username": "EltoMartins",
+        "verified": false
+      }
+    ]
+  }
+}

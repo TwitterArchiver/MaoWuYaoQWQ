@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1658373974647259137",
+    "conversation_id": "2041904050120364163",
+    "created_at": "2026-04-08T15:40:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T16:40:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041904050120364163"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 67,
+          "start": 63,
+          "tag": "地雷系"
+        },
+        {
+          "end": 72,
+          "start": 68,
+          "tag": "门槛妹"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041904050120364163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想知道各位地雷妹们的收入是怎么来的...还以及有没有在上学...特别特别是什么交得起房租的😿根本0个人入我的门槛啊喂...\n\n#地雷系 #门槛妹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658373974647259137",
+        "conversation_id": "2041904050120364163",
+        "created_at": "2026-04-08T15:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041904050120364163"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 63,
+              "tag": "地雷系"
+            },
+            {
+              "end": 72,
+              "start": 68,
+              "tag": "门槛妹"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041904050120364163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想知道各位地雷妹们的收入是怎么来的...还以及有没有在上学...特别特别是什么交得起房租的😿根本0个人入我的门槛啊喂...\n\n#地雷系 #门槛妹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-16T07:29:14.000Z",
+        "description": "🐈‍⬛·☆₊⁺🦴🐾 🐈‍⬛·☆₊⁺🦴🐾 🐈‍⬛·☆₊⁺🦴🐈‍⬛·☆₊⁺\n🖤人类学不会飞翔 但却很容易堕落\n🩷我是貓巫咬.可以叫我電子貓/小巫\n🖤小巫只接纯绿(´･ω･`)\n🩷之前的号炸了.这是我的新号",
+        "id": "1658373974647259137",
+        "name": "༒不可視貓巫咬༒",
+        "pinned_tweet_id": "2040540920370868260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041899454698287107/FU_DdTQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 29,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 50
+        },
+        "username": "MaoWuYaoQWQ",
+        "verified": false
+      }
+    ]
+  }
+}

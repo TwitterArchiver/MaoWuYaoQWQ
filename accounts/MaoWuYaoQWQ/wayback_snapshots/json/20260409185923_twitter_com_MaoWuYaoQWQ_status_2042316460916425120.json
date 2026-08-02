@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2042316387943923716"
+      ]
+    },
+    "author_id": "1658373974647259137",
+    "conversation_id": "2042316460916425120",
+    "created_at": "2026-04-09T18:59:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T19:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042316460916425120"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 22,
+          "tag": "病み垢"
+        },
+        {
+          "end": 33,
+          "start": 27,
+          "tag": "じらいけい"
+        },
+        {
+          "end": 38,
+          "start": 34,
+          "tag": "地雷系"
+        },
+        {
+          "end": 43,
+          "start": 39,
+          "tag": "自撮り"
+        },
+        {
+          "end": 48,
+          "start": 44,
+          "tag": "雰囲気"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RSSg211nZZ",
+          "end": 72,
+          "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2042316460916425120/video/1",
+          "media_key": "13_2042316387943923716",
+          "start": 49,
+          "url": "https://t.co/RSSg211nZZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042316460916425120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人的心脏都在左边 要怎么拥抱才能心心相印\n\n#病み垢 #じらいけい #地雷系 #自撮り #雰囲気 https://t.co/RSSg211nZZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5750,
+        "height": 720,
+        "media_key": "13_2042316387943923716",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042316387943923716/img/RNxQuQ48rzhiRFvY.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042316387943923716/vid/avc1/360x270/Xl2MO5SRyG0OjrFR.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042316387943923716/vid/avc1/480x360/1NJys4_GHF_dZMiw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042316387943923716/vid/avc1/960x720/Eo35Ne9-OWBP233g.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042316387943923716/pl/vnRaMSyc553uf8Ii.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042316387943923716"
+          ]
+        },
+        "author_id": "1658373974647259137",
+        "conversation_id": "2042316460916425120",
+        "created_at": "2026-04-09T18:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T19:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042316460916425120"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "病み垢"
+            },
+            {
+              "end": 33,
+              "start": 27,
+              "tag": "じらいけい"
+            },
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "地雷系"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "自撮り"
+            },
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "雰囲気"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RSSg211nZZ",
+              "end": 72,
+              "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2042316460916425120/video/1",
+              "media_key": "13_2042316387943923716",
+              "start": 49,
+              "url": "https://t.co/RSSg211nZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042316460916425120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人的心脏都在左边 要怎么拥抱才能心心相印\n\n#病み垢 #じらいけい #地雷系 #自撮り #雰囲気 https://t.co/RSSg211nZZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-16T07:29:14.000Z",
+        "description": "我是貓巫咬.可以叫我電子貓/小巫｜私信除口令🧧和互fo外不回复.｜可验证.5r一个语音10r一个视频｜od｜自伤｜绘画｜infp｜泛性恋",
+        "id": "1658373974647259137",
+        "name": "༒不可視貓巫咬༒（欢迎互fo互转）",
+        "pinned_tweet_id": "2040540920370868260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041899454698287107/FU_DdTQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 36,
+          "like_count": 339,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 63
+        },
+        "username": "MaoWuYaoQWQ",
+        "verified": false
+      }
+    ]
+  }
+}

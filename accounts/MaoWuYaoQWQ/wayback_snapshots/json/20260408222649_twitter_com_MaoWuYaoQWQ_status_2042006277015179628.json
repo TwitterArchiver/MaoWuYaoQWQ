@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042006241904619521",
+        "3_2042006241904603136",
+        "3_2042006241904599040"
+      ]
+    },
+    "author_id": "1658373974647259137",
+    "conversation_id": "2042006277015179628",
+    "created_at": "2026-04-08T22:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T23:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042006277015179628"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/74HGjQnnkd",
+          "end": 34,
+          "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2042006277015179628/photo/1",
+          "media_key": "3_2042006241904619521",
+          "start": 11,
+          "url": "https://t.co/74HGjQnnkd"
+        },
+        {
+          "display_url": "pic.x.com/74HGjQnnkd",
+          "end": 34,
+          "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2042006277015179628/photo/1",
+          "media_key": "3_2042006241904603136",
+          "start": 11,
+          "url": "https://t.co/74HGjQnnkd"
+        },
+        {
+          "display_url": "pic.x.com/74HGjQnnkd",
+          "end": 34,
+          "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2042006277015179628/photo/1",
+          "media_key": "3_2042006241904599040",
+          "start": 11,
+          "url": "https://t.co/74HGjQnnkd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042006277015179628",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "巫の神秘素颜...！ https://t.co/74HGjQnnkd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2042006241904619521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFap26Xa8AE9F3n.jpg",
+        "width": 768
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042006241904603136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFap26XasAAjpAK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042006241904599040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFap26XaoAAHZOl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042006241904619521",
+            "3_2042006241904603136",
+            "3_2042006241904599040"
+          ]
+        },
+        "author_id": "1658373974647259137",
+        "conversation_id": "2042006277015179628",
+        "created_at": "2026-04-08T22:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T23:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042006277015179628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/74HGjQnnkd",
+              "end": 34,
+              "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2042006277015179628/photo/1",
+              "media_key": "3_2042006241904619521",
+              "start": 11,
+              "url": "https://t.co/74HGjQnnkd"
+            },
+            {
+              "display_url": "pic.x.com/74HGjQnnkd",
+              "end": 34,
+              "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2042006277015179628/photo/1",
+              "media_key": "3_2042006241904603136",
+              "start": 11,
+              "url": "https://t.co/74HGjQnnkd"
+            },
+            {
+              "display_url": "pic.x.com/74HGjQnnkd",
+              "end": 34,
+              "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2042006277015179628/photo/1",
+              "media_key": "3_2042006241904599040",
+              "start": 11,
+              "url": "https://t.co/74HGjQnnkd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042006277015179628",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "巫の神秘素颜...！ https://t.co/74HGjQnnkd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-16T07:29:14.000Z",
+        "description": "我是貓巫咬.可以叫我電子貓/小巫｜私信除口令🧧和互fo外不回复.我没有免费陪聊的义务｜od｜自伤｜绘画｜infp｜泛性恋",
+        "id": "1658373974647259137",
+        "name": "༒不可視貓巫咬༒（欢迎互fo互转）",
+        "pinned_tweet_id": "2040540920370868260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041899454698287107/FU_DdTQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 29,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 53
+        },
+        "username": "MaoWuYaoQWQ",
+        "verified": false
+      }
+    ]
+  }
+}

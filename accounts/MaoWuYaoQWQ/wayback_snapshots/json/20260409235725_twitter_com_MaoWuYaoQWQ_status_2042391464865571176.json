@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1658373974647259137",
+    "conversation_id": "2042391464865571176",
+    "created_at": "2026-04-09T23:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T00:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042391464865571176"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042391464865571176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现实里的长相和身材belike:模仿超天酱和糖糖的人设结果变成超糖酱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658373974647259137",
+        "conversation_id": "2042391464865571176",
+        "created_at": "2026-04-09T23:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T00:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042391464865571176"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042391464865571176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现实里的长相和身材belike:模仿超天酱和糖糖的人设结果变成超糖酱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-16T07:29:14.000Z",
+        "description": "我是貓巫咬.可以叫我電子貓/小巫｜私信除口令🧧和互fo外不回复.｜可验证.5r一个语音10r一个视频｜od｜自伤｜绘画｜infp｜泛性恋",
+        "id": "1658373974647259137",
+        "name": "༒不可視貓巫咬༒（欢迎互fo互转）",
+        "pinned_tweet_id": "2040540920370868260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041899454698287107/FU_DdTQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 42,
+          "like_count": 423,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 67
+        },
+        "username": "MaoWuYaoQWQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1658373974647259137",
+    "conversation_id": "2073284360154001579",
+    "created_at": "2026-07-04T05:54:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T06:54:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073284360154001579"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 111,
+          "start": 107,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 116,
+          "start": 112,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "半绿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1983169726596726784",
+          "start": 3,
+          "username": "Lilium0413"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/3IDO8",
+          "end": 139,
+          "start": 121,
+          "url": "https://t.co/3IDO8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073284360154001579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070080691090723271",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lilium0413: 我是宥伢🔝～！💞\n坐标广深佛｜160/44/70C｜地雷系 \n喜欢我的可以多找我聊天💬请多多的投喂我吧我爱你!💕\n可以语音验证视频验证20r \n线下接半绿纯绿爸爸活需要过门🚪99 \n#爸爸活 #门槛妹 #半绿 https://t.co/3IDO8…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070080670073024512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpnZtQa8AACYra.jpg",
+        "width": 1692
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2070080669569761280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpnZrYbwAAL8ON.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070080670098235392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpnZtWboAA-D1P.jpg",
+        "width": 1180
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2070080669569765376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpnZrYb0AAY4IQ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658373974647259137",
+        "conversation_id": "2073284360154001579",
+        "created_at": "2026-07-04T05:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073284360154001579"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 111,
+              "start": 107,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 116,
+              "start": 112,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "半绿"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983169726596726784",
+              "start": 3,
+              "username": "Lilium0413"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/3IDO8",
+              "end": 139,
+              "start": 121,
+              "url": "https://t.co/3IDO8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073284360154001579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070080691090723271",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lilium0413: 我是宥伢🔝～！💞\n坐标广深佛｜160/44/70C｜地雷系 \n喜欢我的可以多找我聊天💬请多多的投喂我吧我爱你!💕\n可以语音验证视频验证20r \n线下接半绿纯绿爸爸活需要过门🚪99 \n#爸爸活 #门槛妹 #半绿 https://t.co/3IDO8…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070080670073024512",
+            "3_2070080669569761280",
+            "3_2070080670098235392",
+            "3_2070080669569765376"
+          ]
+        },
+        "author_id": "1983169726596726784",
+        "conversation_id": "2070080691090723271",
+        "created_at": "2026-06-25T09:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T10:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070080691090723271"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 95,
+              "start": 91,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 100,
+              "start": 96,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "半绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3IDO8H9W61",
+              "end": 128,
+              "expanded_url": "https://x.com/Lilium0413/status/2070080691090723271/photo/1",
+              "media_key": "3_2070080670073024512",
+              "start": 105,
+              "url": "https://t.co/3IDO8H9W61"
+            },
+            {
+              "display_url": "pic.x.com/3IDO8H9W61",
+              "end": 128,
+              "expanded_url": "https://x.com/Lilium0413/status/2070080691090723271/photo/1",
+              "media_key": "3_2070080669569761280",
+              "start": 105,
+              "url": "https://t.co/3IDO8H9W61"
+            },
+            {
+              "display_url": "pic.x.com/3IDO8H9W61",
+              "end": 128,
+              "expanded_url": "https://x.com/Lilium0413/status/2070080691090723271/photo/1",
+              "media_key": "3_2070080670098235392",
+              "start": 105,
+              "url": "https://t.co/3IDO8H9W61"
+            },
+            {
+              "display_url": "pic.x.com/3IDO8H9W61",
+              "end": 128,
+              "expanded_url": "https://x.com/Lilium0413/status/2070080691090723271/photo/1",
+              "media_key": "3_2070080669569765376",
+              "start": 105,
+              "url": "https://t.co/3IDO8H9W61"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070080691090723271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2817,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我是宥伢🔝～！💞\n坐标广深佛｜160/44/70C｜地雷系 \n喜欢我的可以多找我聊天💬请多多的投喂我吧我爱你!💕\n可以语音验证视频验证20r \n线下接半绿纯绿爸爸活需要过门🚪99 \n#爸爸活 #门槛妹 #半绿 https://t.co/3IDO8H9W61"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-16T07:29:14.000Z",
+        "description": "我是貓巫咬.可以叫我電子貓/小巫｜私信除口令🧧和互fo外不回复.｜od｜自伤｜绘画｜infp｜泛性恋｜22岁｜门槛纯陪聊赚零花钱不搞颜色",
+        "id": "1658373974647259137",
+        "name": "༒不可視貓巫咬༒",
+        "pinned_tweet_id": "2051443616204423387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305699663441920/frUTM4J1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 77,
+          "like_count": 794,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "MaoWuYaoQWQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-28T13:54:24.000Z",
+        "description": "谢谢喜欢 你们爱我我好幸福 线下需过门99不接受面交 价目表私信来问 没回复可以多发几遍\n小号：@Lilium87654321",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "Lilium87654321"
+              }
+            ]
+          }
+        },
+        "id": "1983169726596726784",
+        "location": "爱的中心",
+        "name": "Lilium",
+        "pinned_tweet_id": "2070080691090723271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070069965026385921/laWa1XrV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 19,
+          "like_count": 4348,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 485
+        },
+        "url": "",
+        "username": "Lilium0413",
+        "verified": false
+      }
+    ]
+  }
+}

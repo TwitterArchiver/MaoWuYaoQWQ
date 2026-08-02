@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1658373974647259137",
+    "conversation_id": "2076568211886420286",
+    "created_at": "2026-07-13T07:23:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T08:23:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076568211886420286"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 87,
+          "start": 75,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 100,
+          "start": 88,
+          "tag": "病み垢女子と繋がりたい"
+        },
+        {
+          "end": 107,
+          "start": 101,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 115,
+          "start": 108,
+          "tag": "いいねでＤＭ"
+        },
+        {
+          "end": 122,
+          "start": 116,
+          "tag": "いいね返し"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2047387304160063488",
+          "start": 3,
+          "username": "merumerumerume7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/pfq",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/pfq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076568211886420286",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076367957551460679",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @merumerumerume7: 𝘛𝘢𝘨 🏷⸒⸒\n\n♀┊東海┊済み┊DM◎┊通話◎ ┊ 躁鬱　┊解離\n\nいいねで気になり次第お迎えします！\n\n#病み垢さんと繋がりたい #病み垢女子と繋がりたい #自撮り界隈 #いいねでＤＭ #いいね返し https://t.co/pfq…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6639,
+        "height": 1280,
+        "media_key": "13_2076367895144390656",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076367895144390656/img/k0uRslG3HYxs69ie.jpg",
+        "public_metrics": {
+          "view_count": 171
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076367895144390656/vid/avc1/320x568/DLi1fyflurxUQ3ws.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076367895144390656/vid/avc1/480x852/kXOTo_Fr74aXH5I7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076367895144390656/vid/avc1/720x1280/L9nUSAQTmkQSqpsB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076367895144390656/pl/ZcFt7iFrY3XnjaBq.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 960,
+        "media_key": "3_2076367895085645824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNC9mXmbAAA6BcK.jpg",
+        "width": 726
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658373974647259137",
+        "conversation_id": "2076568211886420286",
+        "created_at": "2026-07-13T07:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076568211886420286"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 75,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 100,
+              "start": 88,
+              "tag": "病み垢女子と繋がりたい"
+            },
+            {
+              "end": 107,
+              "start": 101,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 115,
+              "start": 108,
+              "tag": "いいねでＤＭ"
+            },
+            {
+              "end": 122,
+              "start": 116,
+              "tag": "いいね返し"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2047387304160063488",
+              "start": 3,
+              "username": "merumerumerume7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/pfq",
+              "end": 139,
+              "start": 123,
+              "url": "https://t.co/pfq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076568211886420286",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076367957551460679",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @merumerumerume7: 𝘛𝘢𝘨 🏷⸒⸒\n\n♀┊東海┊済み┊DM◎┊通話◎ ┊ 躁鬱　┊解離\n\nいいねで気になり次第お迎えします！\n\n#病み垢さんと繋がりたい #病み垢女子と繋がりたい #自撮り界隈 #いいねでＤＭ #いいね返し https://t.co/pfq…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076367895144390656",
+            "3_2076367895085645824"
+          ]
+        },
+        "author_id": "2047387304160063488",
+        "conversation_id": "2076367957551460679",
+        "created_at": "2026-07-12T18:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T19:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076367957551460679"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 54,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 79,
+              "start": 67,
+              "tag": "病み垢女子と繋がりたい"
+            },
+            {
+              "end": 86,
+              "start": 80,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 94,
+              "start": 87,
+              "tag": "いいねでＤＭ"
+            },
+            {
+              "end": 101,
+              "start": 95,
+              "tag": "いいね返し"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pfq6rFmua3",
+              "end": 125,
+              "expanded_url": "https://x.com/merumerumerume7/status/2076367957551460679/video/1",
+              "media_key": "13_2076367895144390656",
+              "start": 102,
+              "url": "https://t.co/pfq6rFmua3"
+            },
+            {
+              "display_url": "pic.x.com/pfq6rFmua3",
+              "end": 125,
+              "expanded_url": "https://x.com/merumerumerume7/status/2076367957551460679/video/1",
+              "media_key": "3_2076367895085645824",
+              "start": 102,
+              "url": "https://t.co/pfq6rFmua3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076367957551460679",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 606,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "𝘛𝘢𝘨 🏷⸒⸒\n\n♀┊東海┊済み┊DM◎┊通話◎ ┊ 躁鬱　┊解離\n\nいいねで気になり次第お迎えします！\n\n#病み垢さんと繋がりたい #病み垢女子と繋がりたい #自撮り界隈 #いいねでＤＭ #いいね返し https://t.co/pfq6rFmua3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-16T07:29:14.000Z",
+        "description": "我是貓巫咬.请叫我小巫｜私信除口令🧧和互fo外不回复.｜od｜自伤｜绘画｜infp｜泛性恋｜22岁｜门槛纯陪聊赚零花钱不搞颜色",
+        "id": "1658373974647259137",
+        "name": "༒不可視貓巫咬༒",
+        "pinned_tweet_id": "2076562861653135848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076563706037805056/nP2Rt8Xf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 83,
+          "like_count": 937,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "MaoWuYaoQWQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T18:53:00.000Z",
+        "description": "💜🖤黒と紫に染まるﾃﾞｼﾞﾀﾙｶﾞｰﾙ 病むかODかnyamuraちゃんの曲ばっか聴いてる女 支え@nyamura_ DM◎ 沢山お話ししようね ｴﾍﾟ復帰勢🎮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "nyamura_"
+              }
+            ]
+          }
+        },
+        "id": "2047387304160063488",
+        "location": "躁鬱 解離 🚗元ZZT231ｾﾘｶ乗り",
+        "name": "める",
+        "pinned_tweet_id": "2064297858745147393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064893922573459456/BbFmLEqa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 138,
+          "like_count": 1297,
+          "listed_count": 3,
+          "media_count": 85,
+          "tweet_count": 512
+        },
+        "url": "",
+        "username": "merumerumerume7",
+        "verified": false
+      }
+    ]
+  }
+}

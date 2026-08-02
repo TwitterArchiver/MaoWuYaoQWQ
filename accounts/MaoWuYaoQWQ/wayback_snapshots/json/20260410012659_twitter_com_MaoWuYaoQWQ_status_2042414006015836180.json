@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1658373974647259137",
+    "conversation_id": "2042065162358944203",
+    "created_at": "2026-04-10T01:26:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T02:26:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042414006015836180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2029396237162876928",
+          "start": 0,
+          "username": "nanaiii1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042414006015836180",
+    "in_reply_to_user_id": "2029396237162876928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042225855435604091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanaiii1111 最爱芙芙...(ᐡ o̴̶̷̤ ﻌ o̴̶̷̤ ᐡ)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658373974647259137",
+        "conversation_id": "2042065162358944203",
+        "created_at": "2026-04-10T01:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T02:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042414006015836180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029396237162876928",
+              "start": 0,
+              "username": "nanaiii1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042414006015836180",
+        "in_reply_to_user_id": "2029396237162876928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042225855435604091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanaiii1111 最爱芙芙...(ᐡ o̴̶̷̤ ﻌ o̴̶̷̤ ᐡ)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029396237162876928",
+        "conversation_id": "2042065162358944203",
+        "created_at": "2026-04-09T12:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042225855435604091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1658373974647259137",
+              "start": 0,
+              "username": "MaoWuYaoQWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042225855435604091",
+        "in_reply_to_user_id": "1658373974647259137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042065162358944203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaoWuYaoQWQ 寶寶最萌了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-16T07:29:14.000Z",
+        "description": "我是貓巫咬.可以叫我電子貓/小巫｜私信除口令🧧和互fo外不回复.｜可验证.5r一个语音10r一个视频｜od｜自伤｜绘画｜infp｜泛性恋",
+        "id": "1658373974647259137",
+        "name": "༒不可視貓巫咬༒（欢迎互fo互转）",
+        "pinned_tweet_id": "2040540920370868260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041899454698287107/FU_DdTQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 43,
+          "like_count": 453,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 68
+        },
+        "username": "MaoWuYaoQWQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T03:19:20.000Z",
+        "description": "不約不賣 純擦邊",
+        "id": "2029396237162876928",
+        "name": "芙芙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042048717000425472/-7U-f1am_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 5,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 16
+        },
+        "username": "nanaiii1111",
+        "verified": false
+      }
+    ]
+  }
+}

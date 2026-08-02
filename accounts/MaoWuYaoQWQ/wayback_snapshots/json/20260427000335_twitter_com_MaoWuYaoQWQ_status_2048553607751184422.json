@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048553584971935744",
+        "3_2048553585332609024",
+        "3_2048553585341018112",
+        "3_2048553585341009920"
+      ]
+    },
+    "author_id": "1658373974647259137",
+    "conversation_id": "2048553607751184422",
+    "created_at": "2026-04-27T00:03:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T01:03:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048553607751184422"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 13,
+          "tag": "fyp"
+        },
+        {
+          "end": 22,
+          "start": 18,
+          "tag": "病み垢"
+        },
+        {
+          "end": 29,
+          "start": 23,
+          "tag": "じらいけい"
+        },
+        {
+          "end": 34,
+          "start": 30,
+          "tag": "地雷系"
+        },
+        {
+          "end": 39,
+          "start": 35,
+          "tag": "自撮り"
+        },
+        {
+          "end": 44,
+          "start": 40,
+          "tag": "雰囲気"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k7MdFrtVuK",
+          "end": 68,
+          "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2048553607751184422/photo/1",
+          "media_key": "3_2048553584971935744",
+          "start": 45,
+          "url": "https://t.co/k7MdFrtVuK"
+        },
+        {
+          "display_url": "pic.x.com/k7MdFrtVuK",
+          "end": 68,
+          "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2048553607751184422/photo/1",
+          "media_key": "3_2048553585332609024",
+          "start": 45,
+          "url": "https://t.co/k7MdFrtVuK"
+        },
+        {
+          "display_url": "pic.x.com/k7MdFrtVuK",
+          "end": 68,
+          "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2048553607751184422/photo/1",
+          "media_key": "3_2048553585341018112",
+          "start": 45,
+          "url": "https://t.co/k7MdFrtVuK"
+        },
+        {
+          "display_url": "pic.x.com/k7MdFrtVuK",
+          "end": 68,
+          "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2048553607751184422/photo/1",
+          "media_key": "3_2048553585341009920",
+          "start": 45,
+          "url": "https://t.co/k7MdFrtVuK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048553607751184422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我就当我的爱是罪...\n\n#fyp #病み垢 #じらいけい #地雷系 #自撮り #雰囲気 https://t.co/k7MdFrtVuK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048553584971935744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG3sob-a8AAblyF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048553585332609024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG3sodUaYAAUZ1L.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048553585341018112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG3sodWasAAC07i.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048553585341009920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG3sodWakAAqUSf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048553584971935744",
+            "3_2048553585332609024",
+            "3_2048553585341018112",
+            "3_2048553585341009920"
+          ]
+        },
+        "author_id": "1658373974647259137",
+        "conversation_id": "2048553607751184422",
+        "created_at": "2026-04-27T00:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T01:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048553607751184422"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "fyp"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "病み垢"
+            },
+            {
+              "end": 29,
+              "start": 23,
+              "tag": "じらいけい"
+            },
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "地雷系"
+            },
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "自撮り"
+            },
+            {
+              "end": 44,
+              "start": 40,
+              "tag": "雰囲気"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k7MdFrtVuK",
+              "end": 68,
+              "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2048553607751184422/photo/1",
+              "media_key": "3_2048553584971935744",
+              "start": 45,
+              "url": "https://t.co/k7MdFrtVuK"
+            },
+            {
+              "display_url": "pic.x.com/k7MdFrtVuK",
+              "end": 68,
+              "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2048553607751184422/photo/1",
+              "media_key": "3_2048553585332609024",
+              "start": 45,
+              "url": "https://t.co/k7MdFrtVuK"
+            },
+            {
+              "display_url": "pic.x.com/k7MdFrtVuK",
+              "end": 68,
+              "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2048553607751184422/photo/1",
+              "media_key": "3_2048553585341018112",
+              "start": 45,
+              "url": "https://t.co/k7MdFrtVuK"
+            },
+            {
+              "display_url": "pic.x.com/k7MdFrtVuK",
+              "end": 68,
+              "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2048553607751184422/photo/1",
+              "media_key": "3_2048553585341009920",
+              "start": 45,
+              "url": "https://t.co/k7MdFrtVuK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048553607751184422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就当我的爱是罪...\n\n#fyp #病み垢 #じらいけい #地雷系 #自撮り #雰囲気 https://t.co/k7MdFrtVuK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-16T07:29:14.000Z",
+        "description": "我是貓巫咬.可以叫我電子貓/小巫｜私信除口令🧧和互fo外不回复.｜可验证.5r一个语音10r一个视频｜od｜自伤｜绘画｜infp｜泛性恋",
+        "id": "1658373974647259137",
+        "name": "༒不可視貓巫咬༒",
+        "pinned_tweet_id": "2048479931286557164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048474836473892864/n9T_5E9Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 42,
+          "like_count": 477,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 55
+        },
+        "username": "MaoWuYaoQWQ",
+        "verified": false
+      }
+    ]
+  }
+}

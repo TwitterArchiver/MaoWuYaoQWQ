@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1658373974647259137",
+    "conversation_id": "2065361883155378450",
+    "created_at": "2026-07-04T05:49:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T06:49:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073283062990082550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1438866373615112192",
+          "start": 0,
+          "username": "whatisnickidk"
+        },
+        {
+          "end": 24,
+          "id": "1545787268501106688",
+          "start": 15,
+          "username": "zzzChumo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073283062990082550",
+    "in_reply_to_user_id": "1438866373615112192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065361883155378450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whatisnickidk @zzzChumo 老师我想🥺🥺我私您吗还是？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2065361869427408897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmjrW_bgAEEogG.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2065361869406363648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmjrW6aYAApg3S.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1018,
+        "media_key": "3_2065361869758742529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmjrYObQAE509j.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658373974647259137",
+        "conversation_id": "2065361883155378450",
+        "created_at": "2026-07-04T05:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073283062990082550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1438866373615112192",
+              "start": 0,
+              "username": "whatisnickidk"
+            },
+            {
+              "end": 24,
+              "id": "1545787268501106688",
+              "start": 15,
+              "username": "zzzChumo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073283062990082550",
+        "in_reply_to_user_id": "1438866373615112192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065361883155378450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whatisnickidk @zzzChumo 老师我想🥺🥺我私您吗还是？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065361869427408897",
+            "3_2065361869406363648",
+            "3_2065361869758742529"
+          ]
+        },
+        "author_id": "1438866373615112192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065361883155378450",
+        "created_at": "2026-06-12T09:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065361883155378450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 73,
+              "id": "1545787268501106688",
+              "start": 64,
+              "username": "zzzChumo"
+            }
+          ],
+          "urls": [
+            {
+              "description": "这个人懒死了，什么都没写⁄(⁄ ⁄•⁄-⁄•⁄ ⁄)⁄",
+              "display_url": "t.me/zzChumo",
+              "end": 98,
+              "expanded_url": "http://t.me/zzChumo",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2072317277551157248/3Xzsm_V6?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2072317277551157248/3Xzsm_V6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 75,
+              "status": 200,
+              "title": "初墨",
+              "unwound_url": "https://t.me/zzChumo",
+              "url": "https://t.co/v64YujKlmU"
+            },
+            {
+              "display_url": "pic.x.com/8hO9LhUfbY",
+              "end": 123,
+              "expanded_url": "https://x.com/whatisnickidk/status/2065361883155378450/photo/1",
+              "media_key": "3_2065361869427408897",
+              "start": 100,
+              "url": "https://t.co/8hO9LhUfbY"
+            },
+            {
+              "display_url": "pic.x.com/8hO9LhUfbY",
+              "end": 123,
+              "expanded_url": "https://x.com/whatisnickidk/status/2065361883155378450/photo/1",
+              "media_key": "3_2065361869406363648",
+              "start": 100,
+              "url": "https://t.co/8hO9LhUfbY"
+            },
+            {
+              "display_url": "pic.x.com/8hO9LhUfbY",
+              "end": 123,
+              "expanded_url": "https://x.com/whatisnickidk/status/2065361883155378450/photo/1",
+              "media_key": "3_2065361869758742529",
+              "start": 100,
+              "url": "https://t.co/8hO9LhUfbY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065361883155378450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1119,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "pr80有售💊要的私 150mg*42t 99%纯度药用无辅料 需要的私\n详情请看p3\n如果超过24h不回就是被封了 可以找大号@zzzChumo或者https://t.co/v64YujKlmU哦 https://t.co/8hO9LhUfbY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-16T07:29:14.000Z",
+        "description": "我是貓巫咬.可以叫我電子貓/小巫｜私信除口令🧧和互fo外不回复.｜od｜自伤｜绘画｜infp｜泛性恋｜22岁｜门槛纯陪聊赚零花钱不搞颜色",
+        "id": "1658373974647259137",
+        "name": "༒不可視貓巫咬༒",
+        "pinned_tweet_id": "2051443616204423387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305699663441920/frUTM4J1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 75,
+          "like_count": 794,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "MaoWuYaoQWQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-17T14:04:25.000Z",
+        "description": "我也不知道这是谁的小号/其实是@zzzChumo/负能树洞号 不营业/可能是梗小鬼/双相/放飞自我/07下半/苦逼打工/无证磕糖中/天残/家长半管不管党/人形自走虎式坦克/钱钱钱钱钱钱/想毁灭世界/在学日语/精神状态良好/这个人懒死了，什么都没写_(:з」∠)_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "zzzChumo"
+              }
+            ]
+          }
+        },
+        "id": "1438866373615112192",
+        "location": "地狱",
+        "name": "💊pr80有售/什么是昵称能吃吗🍥",
+        "pinned_tweet_id": "2065361883155378450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836760952475422720/nN582z5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 25,
+          "like_count": 2099,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 230
+        },
+        "url": "",
+        "username": "whatisnickidk",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T15:09:53.000Z",
+        "description": "伤害自己和所有人的疯子/💊pr有售/中 Eng/無言フォロー失礼します/版权头图非请勿用/术术人/三代目/情商为0不会说话/智商为0放弃思考/机佬/热衷收集各种电子垃圾/四分之一个技术宅/错字受/沉迷刷推无法自拔/这个人懒死了，什么都没写 (⁠°∀⁠。)（？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzcm.fun",
+                "end": 23,
+                "expanded_url": "https://zzcm.fun",
+                "start": 0,
+                "url": "https://t.co/aR3yKyJcpp"
+              }
+            ]
+          }
+        },
+        "id": "1545787268501106688",
+        "location": "三途川",
+        "name": "神乐坂 墨初#氐宿二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886333649223868416/eRpWKwqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3002,
+          "following_count": 1002,
+          "like_count": 97155,
+          "listed_count": 8,
+          "media_count": 1022,
+          "tweet_count": 4189
+        },
+        "url": "https://t.co/aR3yKyJcpp",
+        "username": "zzzChumo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2042336498373312514"
+      ]
+    },
+    "author_id": "1658373974647259137",
+    "conversation_id": "2042336628983939208",
+    "created_at": "2026-04-09T20:19:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T21:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042336628983939208"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 4,
+          "tag": "病み垢"
+        },
+        {
+          "end": 13,
+          "start": 9,
+          "tag": "地雷系"
+        },
+        {
+          "end": 20,
+          "start": 14,
+          "tag": "じらいけい"
+        },
+        {
+          "end": 25,
+          "start": 21,
+          "tag": "自撮り"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/au4DEW4Yzc",
+          "end": 49,
+          "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2042336628983939208/video/1",
+          "media_key": "13_2042336498373312514",
+          "start": 26,
+          "url": "https://t.co/au4DEW4Yzc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042336628983939208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嘻嘻\n\n#病み垢 #地雷系 #じらいけい #自撮り https://t.co/au4DEW4Yzc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10150,
+        "height": 1090,
+        "media_key": "13_2042336498373312514",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042336498373312514/img/w7E7f6cjeUMxNGz5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042336498373312514/vid/avc1/320x484/TJNAXa4HuFzDtT2r.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042336498373312514/vid/avc1/480x726/pTLL9LDyUY41o1Zc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042336498373312514/vid/avc1/720x1090/mRW3zUhadULJPMNK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042336498373312514/pl/Qv-0_xzCg-MXQbqy.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042336498373312514"
+          ]
+        },
+        "author_id": "1658373974647259137",
+        "conversation_id": "2042336628983939208",
+        "created_at": "2026-04-09T20:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T21:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042336628983939208"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "病み垢"
+            },
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "地雷系"
+            },
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "じらいけい"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "自撮り"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/au4DEW4Yzc",
+              "end": 49,
+              "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2042336628983939208/video/1",
+              "media_key": "13_2042336498373312514",
+              "start": 26,
+              "url": "https://t.co/au4DEW4Yzc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042336628983939208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘻嘻\n\n#病み垢 #地雷系 #じらいけい #自撮り https://t.co/au4DEW4Yzc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-16T07:29:14.000Z",
+        "description": "我是貓巫咬.可以叫我電子貓/小巫｜私信除口令🧧和互fo外不回复.｜可验证.5r一个语音10r一个视频｜od｜自伤｜绘画｜infp｜泛性恋",
+        "id": "1658373974647259137",
+        "name": "༒不可視貓巫咬༒（欢迎互fo互转）",
+        "pinned_tweet_id": "2040540920370868260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041899454698287107/FU_DdTQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 40,
+          "like_count": 375,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 66
+        },
+        "username": "MaoWuYaoQWQ",
+        "verified": false
+      }
+    ]
+  }
+}

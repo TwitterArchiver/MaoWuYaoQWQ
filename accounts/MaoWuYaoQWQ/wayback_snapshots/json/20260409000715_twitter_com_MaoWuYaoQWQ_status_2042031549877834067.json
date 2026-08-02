@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041805685437165570",
+        "3_2041805690470330370",
+        "3_2041805685588160513"
+      ],
+      "media_source_tweet_id": [
+        "2041805938961871019",
+        "2041805938961871019",
+        "2041805938961871019"
+      ]
+    },
+    "author_id": "1658373974647259137",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2042031549877834067",
+    "created_at": "2026-04-09T00:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T01:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042031549877834067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2041720205836259328",
+          "start": 3,
+          "username": "jiangjiangcm1m"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lwzjef92Sj",
+          "end": 58,
+          "expanded_url": "https://x.com/jiangjiangcm1m/status/2041805938961871019/photo/1",
+          "media_key": "3_2041805685437165570",
+          "start": 35,
+          "url": "https://t.co/Lwzjef92Sj"
+        },
+        {
+          "display_url": "pic.x.com/Lwzjef92Sj",
+          "end": 58,
+          "expanded_url": "https://x.com/jiangjiangcm1m/status/2041805938961871019/photo/1",
+          "media_key": "3_2041805690470330370",
+          "start": 35,
+          "url": "https://t.co/Lwzjef92Sj"
+        },
+        {
+          "display_url": "pic.x.com/Lwzjef92Sj",
+          "end": 58,
+          "expanded_url": "https://x.com/jiangjiangcm1m/status/2041805938961871019/photo/1",
+          "media_key": "3_2041805685588160513",
+          "start": 35,
+          "url": "https://t.co/Lwzjef92Sj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042031549877834067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041805938961871019",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiangjiangcm1m: 🔝\n同类互fo互转 扩列私信 https://t.co/Lwzjef92Sj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2041805685437165570",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXzc_Ta8AIaEs5.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2041805690470330370",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXzdSDa8AINOi1.jpg",
+        "width": 769
+      },
+      {
+        "height": 999,
+        "media_key": "3_2041805685588160513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXzc_3a8AEGt5W.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041805685437165570",
+            "3_2041805690470330370",
+            "3_2041805685588160513"
+          ],
+          "media_source_tweet_id": [
+            "2041805938961871019",
+            "2041805938961871019",
+            "2041805938961871019"
+          ]
+        },
+        "author_id": "1658373974647259137",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042031549877834067",
+        "created_at": "2026-04-09T00:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T01:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042031549877834067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2041720205836259328",
+              "start": 3,
+              "username": "jiangjiangcm1m"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lwzjef92Sj",
+              "end": 58,
+              "expanded_url": "https://x.com/jiangjiangcm1m/status/2041805938961871019/photo/1",
+              "media_key": "3_2041805685437165570",
+              "start": 35,
+              "url": "https://t.co/Lwzjef92Sj"
+            },
+            {
+              "display_url": "pic.x.com/Lwzjef92Sj",
+              "end": 58,
+              "expanded_url": "https://x.com/jiangjiangcm1m/status/2041805938961871019/photo/1",
+              "media_key": "3_2041805690470330370",
+              "start": 35,
+              "url": "https://t.co/Lwzjef92Sj"
+            },
+            {
+              "display_url": "pic.x.com/Lwzjef92Sj",
+              "end": 58,
+              "expanded_url": "https://x.com/jiangjiangcm1m/status/2041805938961871019/photo/1",
+              "media_key": "3_2041805685588160513",
+              "start": 35,
+              "url": "https://t.co/Lwzjef92Sj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042031549877834067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041805938961871019",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiangjiangcm1m: 🔝\n同类互fo互转 扩列私信 https://t.co/Lwzjef92Sj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041805685437165570",
+            "3_2041805690470330370",
+            "3_2041805685588160513"
+          ]
+        },
+        "author_id": "2041720205836259328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041805938961871019",
+        "created_at": "2026-04-08T09:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T10:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041805938961871019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lwzjef92Sj",
+              "end": 38,
+              "expanded_url": "https://x.com/jiangjiangcm1m/status/2041805938961871019/photo/1",
+              "media_key": "3_2041805685437165570",
+              "start": 15,
+              "url": "https://t.co/Lwzjef92Sj"
+            },
+            {
+              "display_url": "pic.x.com/Lwzjef92Sj",
+              "end": 38,
+              "expanded_url": "https://x.com/jiangjiangcm1m/status/2041805938961871019/photo/1",
+              "media_key": "3_2041805690470330370",
+              "start": 15,
+              "url": "https://t.co/Lwzjef92Sj"
+            },
+            {
+              "display_url": "pic.x.com/Lwzjef92Sj",
+              "end": 38,
+              "expanded_url": "https://x.com/jiangjiangcm1m/status/2041805938961871019/photo/1",
+              "media_key": "3_2041805685588160513",
+              "start": 15,
+              "url": "https://t.co/Lwzjef92Sj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041805938961871019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 526,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "🔝\n同类互fo互转 扩列私信 https://t.co/Lwzjef92Sj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-16T07:29:14.000Z",
+        "description": "我是貓巫咬.可以叫我電子貓/小巫｜私信除口令🧧和互fo外不回复.我没有免费陪聊的义务｜od｜自伤｜绘画｜infp｜泛性恋",
+        "id": "1658373974647259137",
+        "name": "༒不可視貓巫咬༒（欢迎互fo互转）",
+        "pinned_tweet_id": "2040540920370868260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041899454698287107/FU_DdTQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 30,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 54
+        },
+        "username": "MaoWuYaoQWQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T03:30:33.000Z",
+        "description": "=江江 | 双相 餐券 od 自伤 | 女同已有女友\n| 精日 不要pink | mha",
+        "id": "2041720205836259328",
+        "name": "我们不要再折磨彼此了",
+        "pinned_tweet_id": "2041805938961871019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041721191392800770/QutKh5vj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 14,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "jiangjiangcm1m",
+        "verified": false
+      }
+    ]
+  }
+}

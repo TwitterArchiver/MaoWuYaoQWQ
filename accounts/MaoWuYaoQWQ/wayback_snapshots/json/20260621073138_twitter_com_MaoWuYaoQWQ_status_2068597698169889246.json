@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1658373974647259137",
+    "conversation_id": "2067432777654616244",
+    "created_at": "2026-06-21T07:31:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T08:31:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068597698169889246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1961825546549215232",
+          "start": 0,
+          "username": "TWaningMoon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068597698169889246",
+    "in_reply_to_user_id": "1961825546549215232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067432777654616244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TWaningMoon 老师😭😭饿饿😭😭饭饭😭😭好吃😭😭神来的..."
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 474802,
+        "height": 1920,
+        "media_key": "13_2067432517209346049",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067432517209346049/img/ik_SIDV9JiDA-QRw.jpg",
+        "public_metrics": {
+          "view_count": 5178
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067432517209346049/vid/avc1/320x568/2_gKIx-RSyB29Ayy.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067432517209346049/vid/avc1/480x854/6fIs_YdL0F2eRplX.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067432517209346049/vid/avc1/720x1282/ienP6XfUkERHA53X.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067432517209346049/pl/y0d0C8rt9JVQ2Fye.m3u8?tag=14&v=3a1"
+          }
+        ],
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658373974647259137",
+        "conversation_id": "2067432777654616244",
+        "created_at": "2026-06-21T07:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068597698169889246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1961825546549215232",
+              "start": 0,
+              "username": "TWaningMoon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068597698169889246",
+        "in_reply_to_user_id": "1961825546549215232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067432777654616244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TWaningMoon 老师😭😭饿饿😭😭饭饭😭😭好吃😭😭神来的..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067432517209346049"
+          ]
+        },
+        "author_id": "1961825546549215232",
+        "conversation_id": "2067432777654616244",
+        "created_at": "2026-06-18T02:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T03:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067432777654616244"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 75,
+              "tag": "cod乙女"
+            },
+            {
+              "end": 90,
+              "start": 82,
+              "tag": "konig乙女"
+            },
+            {
+              "end": 97,
+              "start": 92,
+              "tag": "mdni"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DpyJnThlGT",
+              "end": 121,
+              "expanded_url": "https://x.com/TWaningMoon/status/2067432777654616244/video/1",
+              "media_key": "13_2067432517209346049",
+              "start": 98,
+              "url": "https://t.co/DpyJnThlGT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067432777654616244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 205,
+          "impression_count": 5581,
+          "like_count": 426,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "[Pet-第7集]\n\n我来更新啦！本人肚子里面没有墨水，所以喜欢搞一些土土的剧情，不喜欢的话可以直接退出哦🤗\n\n不出意外的话下一集上高速，新体位💪\n\n#cod乙女 #konig乙女  #mdni https://t.co/DpyJnThlGT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-16T07:29:14.000Z",
+        "description": "我是貓巫咬.可以叫我電子貓/小巫｜私信除口令🧧和互fo外不回复.｜od｜自伤｜绘画｜infp｜泛性恋｜22岁｜门槛纯陪聊赚零花钱不搞颜色",
+        "id": "1658373974647259137",
+        "name": "༒不可視貓巫咬༒",
+        "pinned_tweet_id": "2051443616204423387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305699663441920/frUTM4J1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 65,
+          "like_count": 765,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 71
+        },
+        "url": "",
+        "username": "MaoWuYaoQWQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T16:18:06.000Z",
+        "description": "🇨🇳 ♀20+  COD乙女\n主要发些18禁(🔞mostly)",
+        "id": "1961825546549215232",
+        "name": "下弦月TheWaningMoon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062911452915367937/qPy_JAtM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1801,
+          "following_count": 27,
+          "like_count": 56,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "TWaningMoon",
+        "verified": false
+      }
+    ]
+  }
+}

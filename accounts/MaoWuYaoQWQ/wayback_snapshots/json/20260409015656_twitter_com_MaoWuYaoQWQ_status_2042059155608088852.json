@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042059135571914752"
+      ]
+    },
+    "author_id": "1658373974647259137",
+    "conversation_id": "2042059155608088852",
+    "created_at": "2026-04-09T01:56:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T02:56:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042059155608088852"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 14,
+          "tag": "じらいけい"
+        },
+        {
+          "end": 25,
+          "start": 21,
+          "tag": "fyp"
+        },
+        {
+          "end": 30,
+          "start": 26,
+          "tag": "病み垢"
+        },
+        {
+          "end": 35,
+          "start": 31,
+          "tag": "地雷系"
+        },
+        {
+          "end": 40,
+          "start": 36,
+          "tag": "自撮り"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6sG7AGdLwn",
+          "end": 64,
+          "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2042059155608088852/photo/1",
+          "media_key": "3_2042059135571914752",
+          "start": 41,
+          "url": "https://t.co/6sG7AGdLwn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042059155608088852",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一个妆面记录对镜拍＞𐋣＜\n\n#じらいけい #fyp #病み垢 #地雷系 #自撮り https://t.co/6sG7AGdLwn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1819,
+        "media_key": "3_2042059135571914752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFbZ9uoa8AAQ4XI.jpg",
+        "width": 1819
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042059135571914752"
+          ]
+        },
+        "author_id": "1658373974647259137",
+        "conversation_id": "2042059155608088852",
+        "created_at": "2026-04-09T01:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T02:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042059155608088852"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "じらいけい"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "fyp"
+            },
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "病み垢"
+            },
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "地雷系"
+            },
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "自撮り"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6sG7AGdLwn",
+              "end": 64,
+              "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2042059155608088852/photo/1",
+              "media_key": "3_2042059135571914752",
+              "start": 41,
+              "url": "https://t.co/6sG7AGdLwn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042059155608088852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个妆面记录对镜拍＞𐋣＜\n\n#じらいけい #fyp #病み垢 #地雷系 #自撮り https://t.co/6sG7AGdLwn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-16T07:29:14.000Z",
+        "description": "我是貓巫咬.可以叫我電子貓/小巫｜私信除口令🧧和互fo外不回复.我没有免费陪聊的义务｜od｜自伤｜绘画｜infp｜泛性恋",
+        "id": "1658373974647259137",
+        "name": "༒不可視貓巫咬༒（欢迎互fo互转）",
+        "pinned_tweet_id": "2040540920370868260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041899454698287107/FU_DdTQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 33,
+          "like_count": 270,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 58
+        },
+        "username": "MaoWuYaoQWQ",
+        "verified": false
+      }
+    ]
+  }
+}

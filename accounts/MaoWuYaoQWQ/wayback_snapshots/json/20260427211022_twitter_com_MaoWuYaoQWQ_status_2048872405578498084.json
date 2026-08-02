@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2048872336984866816"
+      ]
+    },
+    "author_id": "1658373974647259137",
+    "conversation_id": "2048872405578498084",
+    "created_at": "2026-04-27T21:10:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T22:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048872405578498084"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 17,
+          "tag": "地雷系"
+        },
+        {
+          "end": 26,
+          "start": 22,
+          "tag": "fyp"
+        },
+        {
+          "end": 31,
+          "start": 27,
+          "tag": "病み垢"
+        },
+        {
+          "end": 38,
+          "start": 32,
+          "tag": "じらいけい"
+        },
+        {
+          "end": 43,
+          "start": 39,
+          "tag": "自撮り"
+        },
+        {
+          "end": 48,
+          "start": 44,
+          "tag": "雰囲気"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GlHkBYxB6B",
+          "end": 72,
+          "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2048872405578498084/video/1",
+          "media_key": "13_2048872336984866816",
+          "start": 49,
+          "url": "https://t.co/GlHkBYxB6B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048872405578498084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么从来不珍惜我的心...\n\n #地雷系 #fyp #病み垢 #じらいけい #自撮り #雰囲気 https://t.co/GlHkBYxB6B"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9681,
+        "height": 720,
+        "media_key": "13_2048872336984866816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048872336984866816/img/KR5Rogta6bHc9abW.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048872336984866816/vid/avc1/320x320/LeGyw0CSa1I8c1s8.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048872336984866816/vid/avc1/540x540/YjvO6g6fim3mEfsE.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048872336984866816/vid/avc1/720x720/xcQ-cqvjGoKTG7yp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048872336984866816/pl/nR_7GfpQN4cpph9U.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048872336984866816"
+          ]
+        },
+        "author_id": "1658373974647259137",
+        "conversation_id": "2048872405578498084",
+        "created_at": "2026-04-27T21:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T22:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048872405578498084"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "地雷系"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "fyp"
+            },
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "病み垢"
+            },
+            {
+              "end": 38,
+              "start": 32,
+              "tag": "じらいけい"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "自撮り"
+            },
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "雰囲気"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GlHkBYxB6B",
+              "end": 72,
+              "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2048872405578498084/video/1",
+              "media_key": "13_2048872336984866816",
+              "start": 49,
+              "url": "https://t.co/GlHkBYxB6B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048872405578498084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么从来不珍惜我的心...\n\n #地雷系 #fyp #病み垢 #じらいけい #自撮り #雰囲気 https://t.co/GlHkBYxB6B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-16T07:29:14.000Z",
+        "description": "我是貓巫咬.可以叫我電子貓/小巫｜私信除口令🧧和互fo外不回复.｜可验证.5r一个语音10r一个视频｜od｜自伤｜绘画｜infp｜泛性恋",
+        "id": "1658373974647259137",
+        "name": "༒不可視貓巫咬༒",
+        "pinned_tweet_id": "2048479931286557164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048474836473892864/n9T_5E9Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 43,
+          "like_count": 492,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 60
+        },
+        "username": "MaoWuYaoQWQ",
+        "verified": false
+      }
+    ]
+  }
+}

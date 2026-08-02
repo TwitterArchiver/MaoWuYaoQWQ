@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048479029859332096",
+        "3_2048479029863632896",
+        "3_2048479029741973504",
+        "3_2048479029767127040"
+      ]
+    },
+    "author_id": "1658373974647259137",
+    "conversation_id": "2048479047848694158",
+    "created_at": "2026-04-26T19:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T20:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048479047848694158"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 146,
+          "start": 142,
+          "tag": "地雷系"
+        },
+        {
+          "end": 151,
+          "start": 147,
+          "tag": "互fo"
+        },
+        {
+          "end": 156,
+          "start": 152,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 160,
+          "start": 157,
+          "tag": "纯绿"
+        },
+        {
+          "end": 164,
+          "start": 161,
+          "tag": "陪玩"
+        },
+        {
+          "end": 168,
+          "start": 165,
+          "tag": "互转"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rKJiN97DZA",
+          "end": 192,
+          "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2048479047848694158/photo/1",
+          "media_key": "3_2048479029859332096",
+          "start": 169,
+          "url": "https://t.co/rKJiN97DZA"
+        },
+        {
+          "display_url": "pic.x.com/rKJiN97DZA",
+          "end": 192,
+          "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2048479047848694158/photo/1",
+          "media_key": "3_2048479029863632896",
+          "start": 169,
+          "url": "https://t.co/rKJiN97DZA"
+        },
+        {
+          "display_url": "pic.x.com/rKJiN97DZA",
+          "end": 192,
+          "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2048479047848694158/photo/1",
+          "media_key": "3_2048479029741973504",
+          "start": 169,
+          "url": "https://t.co/rKJiN97DZA"
+        },
+        {
+          "display_url": "pic.x.com/rKJiN97DZA",
+          "end": 192,
+          "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2048479047848694158/photo/1",
+          "media_key": "3_2048479029767127040",
+          "start": 169,
+          "url": "https://t.co/rKJiN97DZA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048479047848694158",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "✞.☠᛭..✟🕸️..✞ ✞.☠᛭..✟🕸️..✞ ✞.☠᛭\n🖤۩恶魔三世.与你同在.诱你沉沦۩\n🩷我是貓巫咬/電子貓.恶魔第三世.叫我小巫\n🖤线下查无此人.我来自p图软件\n🩷od｜自伤｜泛性恋｜欢迎入🚪解锁线下\n🖤👁️👁️小巫将视奸每一位经过的人👁️👁️\n🩷༒愿恶魔三世伴你左右༒\n#地雷系 #互fo #门槛妹 #纯绿 #陪玩 #互转 https://t.co/rKJiN97DZA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048479029859332096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2o0wiaMAAggRT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048479029863632896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2o0wjb0AAOHui.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048479029741973504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2o0wGbcAAhR5b.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048479029767127040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2o0wMbQAA8Hac.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048479029859332096",
+            "3_2048479029863632896",
+            "3_2048479029741973504",
+            "3_2048479029767127040"
+          ]
+        },
+        "author_id": "1658373974647259137",
+        "conversation_id": "2048479047848694158",
+        "created_at": "2026-04-26T19:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T20:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048479047848694158"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 146,
+              "start": 142,
+              "tag": "地雷系"
+            },
+            {
+              "end": 151,
+              "start": 147,
+              "tag": "互fo"
+            },
+            {
+              "end": 156,
+              "start": 152,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 160,
+              "start": 157,
+              "tag": "纯绿"
+            },
+            {
+              "end": 164,
+              "start": 161,
+              "tag": "陪玩"
+            },
+            {
+              "end": 168,
+              "start": 165,
+              "tag": "互转"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rKJiN97DZA",
+              "end": 192,
+              "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2048479047848694158/photo/1",
+              "media_key": "3_2048479029859332096",
+              "start": 169,
+              "url": "https://t.co/rKJiN97DZA"
+            },
+            {
+              "display_url": "pic.x.com/rKJiN97DZA",
+              "end": 192,
+              "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2048479047848694158/photo/1",
+              "media_key": "3_2048479029863632896",
+              "start": 169,
+              "url": "https://t.co/rKJiN97DZA"
+            },
+            {
+              "display_url": "pic.x.com/rKJiN97DZA",
+              "end": 192,
+              "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2048479047848694158/photo/1",
+              "media_key": "3_2048479029741973504",
+              "start": 169,
+              "url": "https://t.co/rKJiN97DZA"
+            },
+            {
+              "display_url": "pic.x.com/rKJiN97DZA",
+              "end": 192,
+              "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2048479047848694158/photo/1",
+              "media_key": "3_2048479029767127040",
+              "start": 169,
+              "url": "https://t.co/rKJiN97DZA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048479047848694158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "✞.☠᛭..✟🕸️..✞ ✞.☠᛭..✟🕸️..✞ ✞.☠᛭\n🖤۩恶魔三世.与你同在.诱你沉沦۩\n🩷我是貓巫咬/電子貓.恶魔第三世.叫我小巫\n🖤线下查无此人.我来自p图软件\n🩷od｜自伤｜泛性恋｜欢迎入🚪解锁线下\n🖤👁️👁️小巫将视奸每一位经过的人👁️👁️\n🩷༒愿恶魔三世伴你左右༒\n#地雷系 #互fo #门槛妹 #纯绿 #陪玩 #互转 https://t.co/rKJiN97DZA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-16T07:29:14.000Z",
+        "description": "我是貓巫咬.可以叫我電子貓/小巫｜私信除口令🧧和互fo外不回复.｜可验证.5r一个语音10r一个视频｜od｜自伤｜绘画｜infp｜泛性恋",
+        "id": "1658373974647259137",
+        "name": "༒不可視貓巫咬༒",
+        "pinned_tweet_id": "2040540920370868260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048474836473892864/n9T_5E9Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 42,
+          "like_count": 473,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 72
+        },
+        "username": "MaoWuYaoQWQ",
+        "verified": false
+      }
+    ]
+  }
+}

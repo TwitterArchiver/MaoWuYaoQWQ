@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1658373974647259137",
+    "conversation_id": "2071364162509496416",
+    "created_at": "2026-07-13T06:46:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T07:46:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076558761586774028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2031994508532203524",
+          "start": 0,
+          "username": "CangShu0hoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076558761586774028",
+    "in_reply_to_user_id": "2031994508532203524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071364162509496416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CangShu0hoo 宝宝问问互fo互转吗🥺💖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071364151935696896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL72uLybAAA8WCQ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071364151944048641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL72uL0acAESrgy.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658373974647259137",
+        "conversation_id": "2071364162509496416",
+        "created_at": "2026-07-13T06:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T07:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076558761586774028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2031994508532203524",
+              "start": 0,
+              "username": "CangShu0hoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076558761586774028",
+        "in_reply_to_user_id": "2031994508532203524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071364162509496416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CangShu0hoo 宝宝问问互fo互转吗🥺💖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071364151935696896",
+            "3_2071364151944048641"
+          ]
+        },
+        "author_id": "2031994508532203524",
+        "conversation_id": "2071364162509496416",
+        "created_at": "2026-06-28T22:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T23:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071364162509496416"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "陪玩"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Bk9SNfkFf",
+              "end": 37,
+              "expanded_url": "https://x.com/CangShu0hoo/status/2071364162509496416/photo/1",
+              "media_key": "3_2071364151935696896",
+              "start": 14,
+              "url": "https://t.co/5Bk9SNfkFf"
+            },
+            {
+              "display_url": "pic.x.com/5Bk9SNfkFf",
+              "end": 37,
+              "expanded_url": "https://x.com/CangShu0hoo/status/2071364162509496416/photo/1",
+              "media_key": "3_2071364151944048641",
+              "start": 14,
+              "url": "https://t.co/5Bk9SNfkFf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071364162509496416",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 11351,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#门槛妹 #爸爸活 #陪玩 https://t.co/5Bk9SNfkFf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-16T07:29:14.000Z",
+        "description": "我是貓巫咬.可以叫我電子貓/小巫｜私信除口令🧧和互fo外不回复.｜od｜自伤｜绘画｜infp｜泛性恋｜22岁｜门槛纯陪聊赚零花钱不搞颜色",
+        "id": "1658373974647259137",
+        "name": "༒不可視貓巫咬༒",
+        "pinned_tweet_id": "2051443616204423387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305699663441920/frUTM4J1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 80,
+          "like_count": 932,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 79
+        },
+        "url": "",
+        "username": "MaoWuYaoQWQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T07:24:58.000Z",
+        "description": "老公是天老公是地老公天下第一",
+        "id": "2031994508532203524",
+        "name": "老公奴",
+        "pinned_tweet_id": "2042404732547838168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032177604573503488/3PpCVcEx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 47,
+          "like_count": 121,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 84
+        },
+        "url": "",
+        "username": "CangShu0hoo",
+        "verified": false
+      }
+    ]
+  }
+}

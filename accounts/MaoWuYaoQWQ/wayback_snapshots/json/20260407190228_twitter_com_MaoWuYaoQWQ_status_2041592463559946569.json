@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2041592365031550976"
+      ]
+    },
+    "author_id": "1658373974647259137",
+    "conversation_id": "2041592463559946569",
+    "created_at": "2026-04-07T19:02:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T20:02:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041592463559946569"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "病み垢"
+        },
+        {
+          "end": 11,
+          "start": 5,
+          "tag": "じらいけい"
+        },
+        {
+          "end": 16,
+          "start": 12,
+          "tag": "地雷系"
+        },
+        {
+          "end": 27,
+          "start": 17,
+          "tag": "地雷系と繋がりたい"
+        },
+        {
+          "end": 32,
+          "start": 28,
+          "tag": "自撮り"
+        },
+        {
+          "end": 37,
+          "start": 33,
+          "tag": "雰囲気"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TowVrqBjND",
+          "end": 61,
+          "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2041592463559946569/video/1",
+          "media_key": "13_2041592365031550976",
+          "start": 38,
+          "url": "https://t.co/TowVrqBjND"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041592463559946569",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#病み垢 #じらいけい #地雷系 #地雷系と繋がりたい #自撮り #雰囲気 https://t.co/TowVrqBjND"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12966,
+        "height": 1280,
+        "media_key": "13_2041592365031550976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041592365031550976/img/Dr4_Ga-i5Z4pUXto.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041592365031550976/vid/avc1/320x568/8-PfxdJirVG7R0Tr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041592365031550976/vid/avc1/480x852/Bnb8q69fl3r1Pdm7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041592365031550976/vid/avc1/720x1280/YLoH_evb4r01vfhc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041592365031550976/pl/in07SjsGDB6IOMPz.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041592365031550976"
+          ]
+        },
+        "author_id": "1658373974647259137",
+        "conversation_id": "2041592463559946569",
+        "created_at": "2026-04-07T19:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T20:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041592463559946569"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "病み垢"
+            },
+            {
+              "end": 11,
+              "start": 5,
+              "tag": "じらいけい"
+            },
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "地雷系"
+            },
+            {
+              "end": 27,
+              "start": 17,
+              "tag": "地雷系と繋がりたい"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "自撮り"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "雰囲気"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TowVrqBjND",
+              "end": 61,
+              "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2041592463559946569/video/1",
+              "media_key": "13_2041592365031550976",
+              "start": 38,
+              "url": "https://t.co/TowVrqBjND"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041592463559946569",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#病み垢 #じらいけい #地雷系 #地雷系と繋がりたい #自撮り #雰囲気 https://t.co/TowVrqBjND"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-16T07:29:14.000Z",
+        "description": "🐈‍⬛·☆₊⁺🦴🐾 🐈‍⬛·☆₊⁺🦴🐾 🐈‍⬛·☆₊⁺🦴🐈‍⬛·☆₊⁺\n🖤人类学不会飞翔 但却很容易堕落\n🩷我是貓巫咬.可以叫我電子貓/小巫\n🖤小巫只接纯绿(´･ω･`)\n🩷之前的号炸了.这是我的新号",
+        "id": "1658373974647259137",
+        "name": "༒不可視貓巫咬༒",
+        "pinned_tweet_id": "2040540920370868260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041582255286767616/AvGwRT4a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 29,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 43
+        },
+        "username": "MaoWuYaoQWQ",
+        "verified": false
+      }
+    ]
+  }
+}

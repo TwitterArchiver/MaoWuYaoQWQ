@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1658373974647259137",
+    "conversation_id": "2041913437857706242",
+    "created_at": "2026-04-08T16:17:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T17:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041913437857706242"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041913437857706242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嗯...前两天遇到了讨厌的家伙...跟我说给我五千让我陪他玩一天...结果就去请我吃了顿甜品.一百多块.一共一杯饮品一小碗酸奶一份意面和一片面包.他还嫌我吃得多.吃完说带我去酒吧喝酒.我有点酒瘾就答应了.结果去了好几家都是进去了又出来...最后去便利店买了一罐强爽一罐漓泉和我坐在河边的长椅上喝了.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658373974647259137",
+        "conversation_id": "2041913437857706242",
+        "created_at": "2026-04-08T16:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T17:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041913437857706242"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041913437857706242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯...前两天遇到了讨厌的家伙...跟我说给我五千让我陪他玩一天...结果就去请我吃了顿甜品.一百多块.一共一杯饮品一小碗酸奶一份意面和一片面包.他还嫌我吃得多.吃完说带我去酒吧喝酒.我有点酒瘾就答应了.结果去了好几家都是进去了又出来...最后去便利店买了一罐强爽一罐漓泉和我坐在河边的长椅上喝了.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-16T07:29:14.000Z",
+        "description": "🐈‍⬛·☆₊⁺🦴🐾 🐈‍⬛·☆₊⁺🦴🐾 🐈‍⬛·☆₊⁺🦴🐈‍⬛·☆₊⁺\n🖤人类学不会飞翔 但却很容易堕落\n🩷我是貓巫咬.可以叫我電子貓/小巫\n🖤小巫只接纯绿(´･ω･`)\n🩷之前的号炸了.这是我的新号",
+        "id": "1658373974647259137",
+        "name": "༒不可視貓巫咬༒",
+        "pinned_tweet_id": "2040540920370868260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041899454698287107/FU_DdTQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 29,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 52
+        },
+        "username": "MaoWuYaoQWQ",
+        "verified": false
+      }
+    ]
+  }
+}
