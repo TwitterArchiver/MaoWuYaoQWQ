@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1658373974647259137",
+    "conversation_id": "1904438099599614181",
+    "created_at": "2026-08-11T20:28:44.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T21:28:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087275041570594966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1823248694805962752",
+          "start": 0,
+          "username": "Sexytodashu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087275041570594966",
+    "in_reply_to_user_id": "1823248694805962752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904438099599614181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sexytodashu 我出"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 88,
+        "media_key": "3_1904418716051476481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm3au3HakAE9pWn.png",
+        "width": 372
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658373974647259137",
+        "conversation_id": "1904438099599614181",
+        "created_at": "2026-08-11T20:28:44.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T21:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087275041570594966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1823248694805962752",
+              "start": 0,
+              "username": "Sexytodashu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087275041570594966",
+        "in_reply_to_user_id": "1823248694805962752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904438099599614181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sexytodashu 我出"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904418716051476481"
+          ]
+        },
+        "author_id": "1823248694805962752",
+        "conversation_id": "1904438099599614181",
+        "created_at": "2025-03-25T07:40:00.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2025-03-25T08:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904438099599614181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pT2vAnYI42",
+              "end": 30,
+              "expanded_url": "https://x.com/Sexytodashu/status/1904438099599614181/photo/1",
+              "media_key": "3_1904418716051476481",
+              "start": 7,
+              "url": "https://t.co/pT2vAnYI42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904438099599614181",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_1904418716051476481"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 546814,
+          "like_count": 165,
+          "quote_count": 0,
+          "reply_count": 235,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "谁出原味？！ https://t.co/pT2vAnYI42"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-16T07:29:14.000Z",
+        "description": "我是貓巫咬.请叫我小巫｜私信除口令🧧和互fo外不回复.｜od｜自伤｜绘画｜infp｜泛性恋｜22岁｜",
+        "id": "1658373974647259137",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087275041570594966",
+        "name": "༒不可視貓巫咬༒",
+        "pinned_tweet_id": "2076562861653135848",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1658373974647259137/1783926354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076563706037805056/nP2Rt8Xf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 102,
+          "like_count": 1109,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 98
+        },
+        "url": "",
+        "username": "MaoWuYaoQWQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-13T06:42:31.000Z",
+        "description": "小助理 @bigovo888『 解答粉丝各种小问题 · 分享网友日常小故事 · 原创作者的知心大叔 · 希望大家能在X上开心快乐冲浪！』你们分享的故事和投稿我都会认真看，会挑选好玩的进行分享！『 本人仅在“X/推特”活动，其他平台均为冒充，且不会为任何个人担保，也不会收任何人押金，请大家擦亮眼睛！』",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "bigovo888"
+              }
+            ]
+          }
+        },
+        "id": "1823248694805962752",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087185518643565045",
+        "name": "Big叔",
+        "pinned_tweet_id": "2066390612065284591",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1823248694805962752/1741625247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891054819605147648/dth3Do_l_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2045404,
+          "following_count": 1055,
+          "like_count": 38,
+          "listed_count": 1792,
+          "media_count": 3738,
+          "tweet_count": 7433
+        },
+        "url": "",
+        "username": "Sexytodashu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
