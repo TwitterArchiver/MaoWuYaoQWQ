@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092057596555665408",
+        "3_2092057596572360704",
+        "3_2092057596559814656"
+      ]
+    },
+    "author_id": "1658373974647259137",
+    "conversation_id": "2092057614935109930",
+    "created_at": "2026-08-25T01:12:58.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T02:12:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092057614935109930"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 15,
+          "start": 12,
+          "tag": "包养"
+        },
+        {
+          "end": 19,
+          "start": 17,
+          "tag": "养"
+        },
+        {
+          "end": 23,
+          "start": 20,
+          "tag": "金主"
+        },
+        {
+          "end": 29,
+          "start": 25,
+          "tag": "门槛妹"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Cp5XaWT1lm",
+          "end": 53,
+          "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2092057614935109930/photo/1",
+          "media_key": "3_2092057596555665408",
+          "start": 30,
+          "url": "https://t.co/Cp5XaWT1lm"
+        },
+        {
+          "display_url": "pic.x.com/Cp5XaWT1lm",
+          "end": 53,
+          "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2092057614935109930/photo/1",
+          "media_key": "3_2092057596572360704",
+          "start": 30,
+          "url": "https://t.co/Cp5XaWT1lm"
+        },
+        {
+          "display_url": "pic.x.com/Cp5XaWT1lm",
+          "end": 53,
+          "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2092057614935109930/photo/1",
+          "media_key": "3_2092057596559814656",
+          "start": 30,
+          "url": "https://t.co/Cp5XaWT1lm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092057614935109930",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092057596555665408"
+      },
+      {
+        "media_key": "3_2092057596572360704"
+      },
+      {
+        "media_key": "3_2092057596559814656"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "或许有没有人想包养我。\n#包养  #养 #金主  #门槛妹 https://t.co/Cp5XaWT1lm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092057596555665408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQh7TMRboAAP5fk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092057596572360704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQh7TMVaYAA_gCp.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092057596559814656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQh7TMSa8AAL9QR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092057596555665408",
+            "3_2092057596572360704",
+            "3_2092057596559814656"
+          ]
+        },
+        "author_id": "1658373974647259137",
+        "conversation_id": "2092057614935109930",
+        "created_at": "2026-08-25T01:12:58.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T02:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092057614935109930"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "包养"
+            },
+            {
+              "end": 19,
+              "start": 17,
+              "tag": "养"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "金主"
+            },
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cp5XaWT1lm",
+              "end": 53,
+              "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2092057614935109930/photo/1",
+              "media_key": "3_2092057596555665408",
+              "start": 30,
+              "url": "https://t.co/Cp5XaWT1lm"
+            },
+            {
+              "display_url": "pic.x.com/Cp5XaWT1lm",
+              "end": 53,
+              "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2092057614935109930/photo/1",
+              "media_key": "3_2092057596572360704",
+              "start": 30,
+              "url": "https://t.co/Cp5XaWT1lm"
+            },
+            {
+              "display_url": "pic.x.com/Cp5XaWT1lm",
+              "end": 53,
+              "expanded_url": "https://x.com/MaoWuYaoQWQ/status/2092057614935109930/photo/1",
+              "media_key": "3_2092057596559814656",
+              "start": 30,
+              "url": "https://t.co/Cp5XaWT1lm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092057614935109930",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092057596555665408"
+          },
+          {
+            "media_key": "3_2092057596572360704"
+          },
+          {
+            "media_key": "3_2092057596559814656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "或许有没有人想包养我。\n#包养  #养 #金主  #门槛妹 https://t.co/Cp5XaWT1lm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-16T07:29:14.000Z",
+        "description": "我是貓巫咬.请叫我小巫｜私信除口令🧧和互fo外不回复.｜od｜自伤｜绘画｜infp｜泛性恋｜22岁｜",
+        "id": "1658373974647259137",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092057614935109930",
+        "name": "༒不可視貓巫咬༒",
+        "pinned_tweet_id": "2076562861653135848",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1658373974647259137/1783926354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076563706037805056/nP2Rt8Xf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 106,
+          "like_count": 1155,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 99
+        },
+        "url": "",
+        "username": "MaoWuYaoQWQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
